@@ -1,0 +1,14 @@
+RETURNS and DISPOSAL NOVALICHES
+Return to Supplier Slip 
+No 000000
+Supplier: TEST ISD.
+Date: 2022/04/10 
+U.COST 
+Product                                 QTY
+MILO LIGHT DRINK 200ML                  0 
+0
+PC
+-------------------------------------------
+               TOTAL QTY: 0
+           TOTAL AMOUNT: 0
+-------------------------------------------
